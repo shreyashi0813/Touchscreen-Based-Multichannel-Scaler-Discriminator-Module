@@ -2,7 +2,6 @@
 
 A touchscreen-operated pulse-counting system developed during a summer project at the Bhabha Atomic Research Centre (BARC), focused on embedded instrumentation for neutron pulse-counting applications.
 
-> **Project note:** This repository documents the project architecture and implementation. Source code, schematic files, and PCB design files should be added only when they are cleared for public release and can be shared in a usable form.
 
 ## Overview
 
