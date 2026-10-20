@@ -5,6 +5,34 @@ A touchscreen-operated pulse-counting system developed during a summer project a
 
 ## Overview
 
+## Project Photos
+
+The following photographs and screenshots are from the project report. They illustrate the two development platforms, touchscreen interface, test setup, and hardware design.
+
+| Arduino Mega test setup | WT32-SC01 main screen |
+|---|---|
+| ![Arduino Mega scaler test setup](media/arduino-mega-test-setup.jpg) | ![WT32-SC01 scaler main screen](media/wt32-main-screen.jpg) |
+
+### Development boards
+
+![Arduino Mega 2560](media/arduino-mega-2560.png)
+
+![WT32-SC01 development board](media/wt32-sc01-board.png)
+
+### WT32-SC01 interface
+
+![Time and scale setup screen](media/wt32-setup-screen.jpg)
+
+![Real-time graph screen](media/wt32-live-graph.jpg)
+
+### Hardware design
+
+![Analog front-end schematic screenshot](media/analog-front-end-schematic.png)
+
+![KiCad PCB layout screenshot](media/pcb-layout-view.png)
+
+> These image paths will render once the matching files in the `media/` directory have been uploaded. Publish only images and design material that are approved for public release.
+
 The scaler receives conditioned detector pulses, counts them over a configurable time interval, and displays the result through a touchscreen graphical interface. The project was implemented on two embedded platforms while maintaining the core scaler functions.
 
 ## Main Features
