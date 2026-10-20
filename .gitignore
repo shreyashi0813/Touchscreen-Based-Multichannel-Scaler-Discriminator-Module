@@ -1,0 +1,26 @@
+# Build and IDE outputs
+build/
+.pio/
+.vscode/
+.idea/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# Local configuration and credentials
+.env
+.env.*
+secrets.h
+credentials.h
+wifi_config.h
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary/editor files
+*.swp
+*.tmp
+*~
