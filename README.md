@@ -31,7 +31,7 @@ The following photographs and screenshots are from the project report. They illu
 
 ![KiCad PCB layout screenshot](media/pcb-layout-view.png)
 
-> These image paths will render once the matching files in the `media/` directory have been uploaded. Publish only images and design material that are approved for public release.
+
 
 The scaler receives conditioned detector pulses, counts them over a configurable time interval, and displays the result through a touchscreen graphical interface. The project was implemented on two embedded platforms while maintaining the core scaler functions.
 
@@ -169,6 +169,4 @@ Developed as a summer project at the Bhabha Atomic Research Centre (BARC), Juneâ
 - [Texas Instruments LM358 product page](https://www.ti.com/product/LM358)
 - [LM7805 regulator datasheet reference](https://www.alldatasheet.com/datasheet-pdf/pdf/82833/FAIRCHILD/LM7805.html)
 
-## License
 
-No license has been selected yet. Until a license is added, reuse rights are not granted by this repository. Add a license only after confirming that you have the right to license every included file.
